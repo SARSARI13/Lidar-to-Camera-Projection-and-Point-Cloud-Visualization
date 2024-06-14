@@ -1,4 +1,4 @@
-# Lidar to Camera Projection and Point Cloud Visualization with KITTI Dataset
+# Lidar to Camera Projection and Point Cloud Visualization
 
 ## Objective
 
